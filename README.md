@@ -112,6 +112,25 @@ The dashboard enables users to analyze key business metrics including:
 
 ## Business Benefits
 
+This system helps business:
+
+- Reduce manual inventory and sales tracking
+- Monitor inventory in real time
+- Reduce stock shortages with low-stock monitoring
+- Track revenue and profitability
+- Saves time by automating calculations and reports
+- Monitor operating expenses
+- Analyze business performance through interactive dashboard
+- Support informed business decisions
+- Provides a centralized system for managing inventory and sales
+
+## Visualization 
+
+Dashboard
+
+![Dashboard]
+
+
 ## Recommendations
 To maximize the benefits of this Pharmacy Inventory Management System:
 
