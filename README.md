@@ -126,9 +126,8 @@ This system helps business:
 
 ## Visualization 
 
-Dashboard
+Dashboard ![](iNVENTORY DASHBOARD.png)
 
-![Dashboard]
 
 
 ## Recommendations
