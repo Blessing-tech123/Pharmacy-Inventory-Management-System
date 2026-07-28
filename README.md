@@ -126,8 +126,25 @@ This system helps business:
 
 ## Visualization 
 
-Dashboard ![](iNVENTORY DASHBOARD.png)
+Dashboard 
+![](INVENTORY-DASHBOARD.png)
 
+Inventory sheet
+![](INVENTORY-SHEET.png)
+
+Sales sheet
+![](SALES-SHEET.png)
+
+Expenses sheet
+![](Expenses-sheet.png)
+
+Watch the demo here: 
+https://drive.google.com/file/d/1FVh3bELkqeBda-tns_xNEP7tSfUdpATz/view?usp=sharing
+
+## Conclusion
+The Pharmacy Inventory Management System demonstrates how Google Sheets can be transformed into a powerful business management tool by combining inventory tracking, sales management, expenses recording, automated calculations and interactive dashboards, the system helps business manage their daily operations more efficiently.
+
+This project highlights practical skills in spreadsheet automation, data analysis, dashboard design and business reporting while providing a user-friendly solution for small and medium-sized business. It can also be expanded with additional features such as Google forms for sales data entry, delivery management, financial management, customer service tracking, supplier management, employee management and other business operations, providing businesses with a centralized platform for managing their activities efficiently as business needs grow.
 
 
 ## Recommendations
